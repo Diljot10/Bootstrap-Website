@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #343a40;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .nav-link {
+    color: #ffffff !important;
+    margin-right: 20px;
+    transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #17a2b8 !important;
+}
+
+/* Image Placeholder Grid Styling */
+.img-fluid {
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #343a40; 
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+}
+
